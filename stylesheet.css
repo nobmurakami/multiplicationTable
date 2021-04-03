@@ -1,0 +1,13 @@
+table, th, td {
+  border-collapse: collapse;
+  border: 2px solid gray;
+  text-align: center;
+}
+
+th, td {
+  width: 30px;
+}
+
+.even {
+  background-color: pink;
+}
